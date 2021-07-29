@@ -12,24 +12,36 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hello, I'm Nicolas!  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+## Hello, I'm Nicolas!  <img src="Icons/giphy.gif" width="25px">
 <a href="https://www.linkedin.com/in/nicolas-hammer-41734816a/">
-  <img align="left" alt="Nicolas' Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"/>
+  <img float="left" alt="Nicolas' Linkedin" width="22px" src="Icons/linkedin.svg"/>
 </a>
 
-&nbsp; &nbsp;
+&nbsp;
 
 I am a rising software engineer at [Zoox](https://zoox.com) with focuses in data science and machine learning.  I love using data to model real-world problems and write clean, concise, and explanable code with clear theoretical foundations.
 
-### Languages and Tools
+&nbsp;
+
+### **Languages and Tools**
 <p float="left">
-  <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
+  <a href="https://www.python.org">
+    <img height="30" src="Icons/python.svg">
+  </a>
   &nbsp;
-  <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/pytorch/pytorch.png">
+  <a href="https://pytorch.org">
+    <img height="30" src="Icons/pytorch.svg">
+  </a>
   &nbsp;
-  <img height="30" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.svg">
+  <a href="https://isocpp.org">
+    <img height="30" src="Icons/c++.svg">
+  </a>
   &nbsp;
-  <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
+  <a href="https://git-scm.com">
+    <img height="30" src="Icons/git.svg">
+  </a>
   &nbsp;
-  <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png">
+  <a href="https://www.gnu.org/software/bash/">
+    <img height="30" src="Icons/terminal.svg">
+  </a>
 </p>
