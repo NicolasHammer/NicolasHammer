@@ -44,4 +44,8 @@ I am a rising software engineer at [Zoox](https://zoox.com) with focuses in data
   <a href="https://www.gnu.org/software/bash/">
     <img height="30" src="Icons/terminal.svg">
   </a>
+  &nbsp;
+  <a href="https://www.postgresql.org">
+    <img height="30" src="Icons/postgresql.svg">
+  </a>
 </p>
