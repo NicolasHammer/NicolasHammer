@@ -13,9 +13,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Hello, I'm Nicolas!  <img src="Icons/giphy.gif" width="25px">
-<a href="https://www.linkedin.com/in/nicolas-hammer-41734816a/">
-  <img float="left" alt="Nicolas' Linkedin" width="22px" src="Icons/linkedin.svg"/>
-</a>
+<p float="left">
+  <a href="https://www.linkedin.com/in/nicolas-hammer-41734816a/">
+    <img float="left" alt="Nicolas' Linkedin" width="22px" src="Icons/linkedin.svg"/>
+  </a>
+  &nbsp;
+  <a href="https://discordapp.com/users/263867603833978881/">
+      <img float="left" alt="Nicolas' Discord" width="22px" src="Icons/discord.svg"/>
+  </a>
+</p>
 
 &nbsp;
 
