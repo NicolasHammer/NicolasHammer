@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 &nbsp;
 
-I am a data scientist at [Zoox](https://zoox.com) with focuses in statistical validation in databases.  I love using data to model real-world problems and write clean, concise, and explanable code with clear theoretical foundations.
+I am a data scientist at [Zoox](https://zoox.com) with focuses in statistical validation and databases.  I love using data to model real-world problems and write clean, concise, and explanable code with clear theoretical foundations.
 
 &nbsp;
 
