@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 ## Hello, I'm Nicolas!  <img src="Icons/giphy.gif" width="25px">
 <p float="left">
   <a href="https://www.linkedin.com/in/nicolas-hammer-41734816a/">
-    <img float="left" alt="Nicolas' Linkedin" width="22px" src="Icons/linkedin.svg"/>
+    <img float="left" alt="Nicolas' Linkedin" width="30px" src="Icons/linkedin.svg"/>
   </a>
   &nbsp;
   <a href="https://discordapp.com/users/263867603833978881/">
-      <img float="left" alt="Nicolas' Discord" width="22px" src="Icons/discord.svg"/>
+      <img float="left" alt="Nicolas' Discord" width="30px" src="Icons/discord.svg"/>
   </a>
 </p>
 
@@ -28,6 +28,13 @@ Here are some ideas to get you started:
 I am a data scientist at [Zoox](https://zoox.com) with focuses in statistical validation and machine learning.  I love using data to model real-world problems and write clean, concise, and explanable code with clear theoretical foundations.
 
 &nbsp;
+
+### **Resume**
+<p float="left">
+  <a href="https://drive.google.com/file/d/1PCkwnJjRMafc1b0TpK-ddbwoCRddSbTg/view?usp=sharing">
+    <img height="35" src="Icons/resume.svg">
+  </a>
+</p>
 
 ### **Languages and Tools**
 <p float="left">
