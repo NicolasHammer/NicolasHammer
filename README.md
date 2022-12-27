@@ -12,14 +12,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Hello, I'm Nicolas!  <img src="Icons/giphy.gif" width="25px">
+## Hello, I'm Nicolas!  <img src="icons/giphy.gif" width="25px">
 <p float="left">
   <a href="https://www.linkedin.com/in/nicolas-hammer-41734816a/">
-    <img float="left" alt="Nicolas' Linkedin" width="30px" src="Icons/linkedin.svg"/>
+    <img float="left" alt="Nicolas' Linkedin" width="30px" src="icons/linkedin.svg"/>
   </a>
   &nbsp;
   <a href="https://discordapp.com/users/263867603833978881/">
-      <img float="left" alt="Nicolas' Discord" width="30px" src="Icons/discord.svg"/>
+      <img float="left" alt="Nicolas' Discord" width="30px" src="icons/discord.svg"/>
   </a>
 </p>
 
@@ -32,33 +32,33 @@ I am a data scientist at [Zoox](https://zoox.com) with focuses in statistical va
 ### **Resume**
 <p float="left">
   <a href="https://drive.google.com/file/d/1PCkwnJjRMafc1b0TpK-ddbwoCRddSbTg/view?usp=sharing">
-    <img height="35" src="Icons/resume.svg">
+    <img height="35" src="icons/resume.svg">
   </a>
 </p>
 
 ### **Languages and Tools**
 <p float="left">
   <a href="https://www.python.org">
-    <img height="30" src="Icons/python.svg">
+    <img height="30" src="icons/python.svg">
   </a>
   &nbsp;
   <a href="https://pytorch.org">
-    <img height="30" src="Icons/pytorch.svg">
+    <img height="30" src="icons/pytorch.svg">
   </a>
   &nbsp;
   <a href="https://isocpp.org">
-    <img height="30" src="Icons/c++.svg">
+    <img height="30" src="icons/c++.svg">
   </a>
   &nbsp;
   <a href="https://git-scm.com">
-    <img height="30" src="Icons/git.svg">
+    <img height="30" src="icons/git.svg">
   </a>
   &nbsp;
   <a href="https://www.gnu.org/software/bash/">
-    <img height="30" src="Icons/terminal.svg">
+    <img height="30" src="icons/terminal.svg">
   </a>
   &nbsp;
   <a href="https://www.postgresql.org">
-    <img height="30" src="Icons/postgresql.svg">
+    <img height="30" src="icons/postgresql.svg">
   </a>
 </p>
