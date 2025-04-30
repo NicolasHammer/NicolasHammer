@@ -31,7 +31,7 @@ I am a software engineer at [Zoox](https://zoox.com) with focuses in statistical
 
 ### **Resume**
 <p float="left">
-  <a href="https://drive.google.com/file/d/1PCkwnJjRMafc1b0TpK-ddbwoCRddSbTg/view?usp=sharing">
+  <a href="">
     <img height="35" src="icons/resume.svg">
   </a>
 </p>
